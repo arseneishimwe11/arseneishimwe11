@@ -70,10 +70,10 @@
   <a href="mailto:ishimwearsene11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/cedrickmanzii3" target="_blank">
+  <a href="https://twitter.com/arseneishimwe11" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+  <a href="https://linkedin.com/in/ishimwearsene11" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -81,9 +81,5 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9E3DF2&height=100&section=footer" />
 </p>
