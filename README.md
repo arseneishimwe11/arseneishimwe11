@@ -19,7 +19,7 @@
 - 🔭 Currently working on a **FinTech microservices platform**
 - 💻 Passionate about **secure systems**, **real-time apps**, and **microservice architecture**
 - 🌱 Learning: **Kubernetes**, **Zero Trust Architecture**, and **AWS**
-- 💬 Ask me about: `NestJS`, `Spring Boot`, `Stripe/Firebase`, `Secure APIs`
+- 💬 Ask me about: `NestJS`, `Spring Boot`, `Stripe/Firebase`, `GoLang`, `Secure APIs` 
 - 📫 Contact: **ishimwearsene11@gmail.com**
 
 ---
