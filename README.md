@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/arseneishimwe11">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+NestJS%2C+SpringBoot;Passionate+about+Clean+Architecture;Zero+Trust+%26+Security+Focused;Always+Building+Meaningful+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=550&lines=Backend+Engineer+%7C+NestJS%2C+SpringBoot;Passionate+about+Clean+Architecture;Zero+Trust+%26+Security+Focused;Always+Building+Meaningful+Software" alt="Typing SVG" />
   </a>
 </p>
 
