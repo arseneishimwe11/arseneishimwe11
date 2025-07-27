@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arsene Ishimwe</h1>
+<h1 align="center">Hola 👋, I'm Arsene Ishimwe</h1>
 
 <p align="center">
   <a href="https://github.com/arseneishimwe11">
@@ -38,7 +38,7 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-`TypeScript`, `JavaScript`, `Python`, `Java`, `C`
+`TypeScript`, `JavaScript`, `Python`, `Java`, `Go`, `C++`
 
 **Frameworks & Tools:**  
 `NestJS`, `Spring Boot`, `Node.js`, `Next.js`, `Firebase`, `Docker`, `RabbitMQ`, `PostgreSQL`, `MongoDB`
